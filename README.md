@@ -1,6 +1,6 @@
 ## Turn On The Light
 
-https://img.shields.io/github/followers/Aditya-Ramachandran?label=Follow&style=social
+![GitHub followers](https://img.shields.io/github/followers/Aditya-Ramachandran?label=Follow&style=social)
 ![Twitter URL](https://img.shields.io/twitter/url?label=Let%27s%20Connect&logo=Linkedin&url=https%3A%2F%2Fwww.linkedin.com%2Fin%2Faditya-r-0494441b0%2F)
 ![Twitter URL](https://img.shields.io/twitter/url?label=Blog%21&logo=Wordpress&url=https%3A%2F%2Fobnoxiousblueshift.wordpress.com%2F)
 
