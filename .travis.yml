@@ -1,3 +1,7 @@
-language : HTML
-language : CSS
-language : Javascript
+{
+  "language": "node_js",
+  "os": [
+    "linux"
+  ],
+  "dist": "xenial"
+}
