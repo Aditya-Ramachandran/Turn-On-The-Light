@@ -1,7 +1,10 @@
 ## Turn On The Light
 
-![GitHub followers](https://img.shields.io/github/followers/Aditya-Ramachandran?label=Follow&style=social)
+
+![GitHub followers](https://img.shields.io/github/followers/Aditya-Ramachandran?color=green&label=Follow&logo=github&style=plastic)
+
 ![Twitter URL](https://img.shields.io/twitter/url?label=Let%27s%20Connect&logo=Linkedin&url=https%3A%2F%2Fwww.linkedin.com%2Fin%2Faditya-r-0494441b0%2F)
+
 ![Twitter URL](https://img.shields.io/twitter/url?label=Blog%21&logo=Wordpress&url=https%3A%2F%2Fobnoxiousblueshift.wordpress.com%2F)
 
 Turn On The Light is a simple game that I made almost a year ago as a part of my personal project. In this game you have to turn the tiles in the correct order thereby making path for the current flow and turn on the light (which indicates the completion of that level). The levels gets harder as you progress further in the game. 
